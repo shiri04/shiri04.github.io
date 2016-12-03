@@ -1,0 +1,64 @@
+.jumbotron {
+    background-image: url(source.jpg);
+    background-size: cover;
+  height:400px;
+}
+        
+ #matter,#Intro-Blog {
+    padding: 5px;
+  width:400px;
+  color:cornflowerblue;
+font-size: 25px;
+font-family: sans-serif;
+}
+        
+ #Intro-Blog{color:cornflowerblue;
+     padding-bottom: 10px;
+        padding:5px;}
+        
+#panel #p1{
+            text-align: left;
+ }
+
+    
+#panel {
+    padding: 5px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+        
+
+ #panel1, #Intro-Blog {
+    padding: 5px;
+
+}
+
+#panel1 {
+    padding: 5px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+.posts h1{ color:cornflowerblue;
+    padding-top: 10px;
+}
+        .posts a{color:cornflowerblue;
+            font-size:25px;
+            padding: 5px;
+            text-decoration: none;
+        }
+        
+        .posts a:hover{
+            text-decoration: none;
+            color:mediumorchid;
+        }
+ footer {
+  padding: 40px  45px;
+}
+        footer .row i{color:black;}
+ 
+ .homeicon i{color:green;
+     padding-right:100px;
+     padding-top: 30px;
+     float:right;
+        }
+    
