@@ -39,18 +39,13 @@ font-family: sans-serif;
     font-family: sans-serif;
 }
 .posts h1{ color:cornflowerblue;
-    padding-top: 10px;
-}
+    
         .posts a{color:cornflowerblue;
             font-size:25px;
             padding: 5px;
             text-decoration: none;
         }
         
-        .posts a:hover{
-            text-decoration: none;
-            color:mediumorchid;
-        }
  footer {
   padding: 40px  45px;
 }
